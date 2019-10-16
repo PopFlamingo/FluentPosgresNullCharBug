@@ -3,7 +3,6 @@ import FluentKit
 final class FooModel: Model {
      static var schema = "foo_model"
      
-     // FIXME: Why is this required, is this common to write it like this?
      init() {}
      init(lastUpdate: Date) {
          self.someDate = lastUpdate
