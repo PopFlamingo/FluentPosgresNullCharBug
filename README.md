@@ -1,3 +1,3 @@
 # FluentPosgresNullCharBug
 
-A description of this package.
+A package serving as a reproduction example for a bug
